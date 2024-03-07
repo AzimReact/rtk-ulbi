@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "id": "4",
+      "title": "updated",
+      "views": 200
+    },
+    {
+      "id": "5",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "6",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "7",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "8",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "9",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "5f16",
+      "title": "akimka",
+      "body": "akimka"
+    },
+    {
+      "id": "1629",
+      "title": "datka",
+      "body": "datu"
+    },
+    {
+      "id": "12a0",
+      "title": "urmat",
+      "body": "urmat"
+    },
+    {
+      "id": "daeb",
+      "title": "bakyt",
+      "body": "bakyt"
+    },
+    {
+      "id": "298d",
+      "title": "qwerty",
+      "body": "qwerty"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": null
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": null
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
